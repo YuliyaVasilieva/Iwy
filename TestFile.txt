@@ -2,5 +2,8 @@ String 1
 String 2
 Strin 3
 String 4
+<<<<<<< HEAD
 String 5
 Add changes
+Fist commit to the feature
+The second commit to the feature
